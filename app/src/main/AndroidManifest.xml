@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RoomDB_24_NizarAli">
         <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
             android:name=".AddActivity"
             android:exported="false" />
         <activity

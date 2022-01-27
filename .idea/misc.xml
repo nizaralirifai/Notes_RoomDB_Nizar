@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/NIZAR ALI RIFAI/AndroidStudioProjects/RoomDB_24_NizarAli/app/src/main/res/drawable/ic_edit.xml" value="0.2128205128205128" />
         <entry key="..\:/Users/NIZAR ALI RIFAI/AndroidStudioProjects/RoomDB_24_NizarAli/app/src/main/res/layout/activity_add.xml" value="0.25" />
         <entry key="..\:/Users/NIZAR ALI RIFAI/AndroidStudioProjects/RoomDB_24_NizarAli/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/NIZAR ALI RIFAI/AndroidStudioProjects/RoomDB_24_NizarAli/app/src/main/res/layout/activity_splash.xml" value="0.14" />
         <entry key="..\:/Users/NIZAR ALI RIFAI/AndroidStudioProjects/RoomDB_24_NizarAli/app/src/main/res/layout/list_movie.xml" value="0.25" />
       </map>
     </option>

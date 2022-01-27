@@ -89,7 +89,7 @@ class MainActivity : AppCompatActivity() {
         val alertDialog = AlertDialog.Builder(this)
         alertDialog.apply {
             setTitle("Konfirmasi")
-            setMessage("Anda ingin menghapus ${movie.title}?")
+            setMessage("Anda ingin menghapus catatan ${movie.title}?")
             setNegativeButton("Batal") { dialogInterface, i ->
                 dialogInterface.dismiss()
             }
